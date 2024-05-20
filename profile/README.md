@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-> This organization was created for the IRCITE 2024 - Hackathon Challenge and may be used for future collaborations on other projects.
+> This organization was created for the IRCITE 2024 - Hackathon Challenge and might be used for future collaborations on other projects.
 
 ## Members:
 - Mel Mathew Palaña
