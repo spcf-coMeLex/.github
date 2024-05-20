@@ -15,4 +15,4 @@
 
 ## Members:
 - Mel Mathew Palaña
-- Alexander John Cammaddo
+- Alexander John Cammado
